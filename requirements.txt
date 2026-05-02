@@ -1,0 +1,11 @@
+# NullScan — Python Dependencies
+# All tools use Python standard library only — no pip installs required.
+# 
+# System dependencies (install once):
+#   sudo apt install dnsutils whois          # Debian/Ubuntu/Kali
+#   brew install bind whois                  # macOS
+#   sudo dnf install bind-utils whois        # Fedora/RHEL
+#
+# Optional: grab a bigger subdomain wordlist
+#   https://github.com/danielmiessler/SecLists
+#   Copy Discovery/DNS/subdomains-top1million-5000.txt → wordlists/subdomains.txt
