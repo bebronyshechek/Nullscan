@@ -32,7 +32,7 @@ def banner():
 ██║╚██╗██║██║   ██║██║     ██║     ╚════██║██║     ██╔══██║██║╚██╗██║
 ██║ ╚████║╚██████╔╝███████╗███████╗███████║╚██████╗██║  ██║██║ ╚████║
 ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-{C.RESET}{C.GRAY}              NullScan v1.0  |  Authorized use only{C.RESET}
+{C.GRAY}         NullScan v1.0  |  by durachok  |  Authorized use only{C.RESET}
 """)
 
 def menu():
