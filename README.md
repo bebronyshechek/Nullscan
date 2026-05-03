@@ -33,7 +33,7 @@
 
 ```bash
 # Clone
-git clone git clone https://github.com/bebronyshechek/nullscan.git
+git clone https://github.com/bebronyshechek/nullscan.git
 cd nullscan
 
 # Install system deps (Debian/Ubuntu/Kali)
